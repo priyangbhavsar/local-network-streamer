@@ -64,8 +64,6 @@ On your TV's browser, type your computer's IP address followed by :3000.
 
 For example:
 
-C++
-
 [http://192.168.1.100:3000](http://192.168.1.100:3000)
 You can get your local IP using ipconfig (Windows) or ifconfig / ip a (Linux/macOS).
 
