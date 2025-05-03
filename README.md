@@ -80,7 +80,7 @@ Internal subtitle extraction
 Chromecast support?
 Feel free to fork, PR, or open an issue. Let’s build something cool together.
 
-👉 GitHub Repo: https://github.com/yourusername/intranet-movie-stream
+👉 GitHub Repo: https://github.com/priyangbhavsar/local-network-streamer
 
 🏷️ Tags
 nodejs • local-streaming • smart-tv • intranet-app • lightweight-media-server
