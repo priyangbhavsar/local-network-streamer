@@ -34,27 +34,22 @@ npm -v
 2. Clone this Repository
 Bash
 
-git clone [https://github.com/yourusername/intranet-movie-stream.git](https://github.com/yourusername/intranet-movie-stream.git)
+git clone [https://github.com/priyangbhavsar/local-network-streamer](https://github.com/priyangbhavsar/local-network-streamer)
 cd intranet-movie-stream
 3. Install Dependencies
-Bash
 
 npm install
 4. Set the Movie Directory
 In the server.js file, find this line:
 
-JavaScript
 
 const BASE_DIR = 'G:\\movies';
 Change 'G:\\movies' to the folder path where your movies are stored. Use double backslashes \\ on Windows or regular forward slashes / on macOS/Linux.
 
 5. Run the Server
-Bash
 
 node server.js
 You’ll see:
-
-Bash
 
 📺 Video server running at http://localhost:3000
 📺 Watch on Smart TV
